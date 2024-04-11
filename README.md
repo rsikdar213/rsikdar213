@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritodeep Sikdar</h1>
-<h3 align="center">Deep Learning, Data Science and Software Development</h3>
-<h4 align="center">Nature, Technology and Food lover. Excited to work on new technologies. I love solving puzzles and teasers.</h4>
+<h3 align="center">Software Development, Deep Learning and Data Science</h3>
+<h4 align="center">Nature, Technology and Food lover. Excited to work on new technologies. I love solving puzzles and problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsikdar213&label=Profile%20views&color=0e75b6&style=flat" alt="rsikdar213" /> </p>
 
